@@ -42,7 +42,7 @@ A firefox extension that adds a new context menu item to search for a translatio
 <!-- GETTING STARTED -->
 ## Getting Started
 
-soon available for download in the mozilla add-ons gallery
+this firefox extension is available for download in the [mozilla add-ons gallery](https://addons.mozilla.org/en-US/firefox/addon/search-on-linguee/)
 
 ### Prerequisites
 
