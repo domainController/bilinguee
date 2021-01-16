@@ -29,7 +29,8 @@
 <!-- ABOUT THE PROJECT -->
 ## bilinguee
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Screenshot_linguee1](https://user-images.githubusercontent.com/58897196/104790499-44bb5680-578f-11eb-9e76-5e9e70c6f5bf.png)
+![Screenshot_linguee2](https://user-images.githubusercontent.com/58897196/104790501-46851a00-578f-11eb-88f8-c8e1227e4f22.png)
 
 A firefox extension that adds a new context menu item to search for a translation from english to french on linguee.com.
 
