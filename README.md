@@ -31,7 +31,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A firefox extension that provides you with a context menu item to search for a translation from english to french on the following website linguee.com.
+A firefox extension that adds a new context menu item to search for a translation from english to french on linguee.com.
 
 ### Built With
 
